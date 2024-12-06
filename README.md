@@ -1,9 +1,4 @@
-The README.md file is the introduction and documentation for your project. Here's a professional structure you can use for your mobile banking application, SugarCoin-Banking:
-
-
----
-
-SugarCoin-Banking
+SugarCoin-mobile-Banking
 
 SugarCoin-Banking is a modern, secure, and user-friendly mobile banking application. It enables users to send, withdraw, and deposit money seamlessly using various methods such as Mpesa, PayPal, credit/debit cards, and more.
 
